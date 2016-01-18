@@ -36,7 +36,7 @@
     </head>
     <body>
         <div class="row">
-            <div class="col-xs-12" style="height:100%;">
+            <div class="col-xs-12" style="height:100%;margin-top:50px;">
                 <iframe class="col-sm-12 hidden-sm hidden-md hidden-lg" width="100%" src="https://www.youtube.com/embed/9rDMz5vJfFk" frameborder="0" allowfullscreen></iframe>
                 <iframe class="col-sm-12 hidden-xs hidden-md hidden-lg" width="640" height="360" src="https://www.youtube.com/embed/9rDMz5vJfFk" frameborder="0" allowfullscreen></iframe>
                 <iframe class="col-sm-12 hidden-xs hidden-sm hidden-lg" width="853" height="480" src="https://www.youtube.com/embed/9rDMz5vJfFk" frameborder="0" allowfullscreen></iframe>
@@ -47,13 +47,13 @@
             <div class="col-xs-12">
                 <center>
                     <a target="_blank" href="https://www.instagram.com/thebansheepilot/" class="btn btn-default">
-                        <i style="font-size:3em"class="fa fa-instagram"></i>
+                        <i style="font-size:2em"class="fa fa-instagram"></i>
                     </a>
                     <a target="_blank" href="https://www.facebook.com/thebansheepilotofficial/" class="btn btn-default">
-                        <i style="font-size:3em"class="fa fa-facebook-official"></i>
+                        <i style="font-size:2em"class="fa fa-facebook-official"></i>
                     </a>
                     <a target="_blank" href="https://thebansheepilotofficial.bandcamp.com/" class="btn btn-default">
-                        <i style="font-size:3em"class="fa fa-music"></i>
+                        <i style="font-size:2em"class="fa fa-music"></i>
                     </a>
                 </center>
             </div>
