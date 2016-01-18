@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>The Banshee Pilot</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta property="og:image" content="http://www.bansheepilot.com/images/bansheealbum.jpg" />
+    <meta property="og:image" content="http://bansheepilot.com/images/bansheealbum.jpg" />
     <meta property="og:description" content="The Banshee Pilot is an Alternative, concept rock band rising from the post-apocalyptic remains of Detroit, MI." />
     <meta property="og:title" content="The Banshee Pilot" />
     <!-- Font Awesome -->
