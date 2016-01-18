@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <title>The Banshee Pilot</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:image" content="http://www.bansheepilot.com/images/bansheealbum.jpg" />
+    <meta property="og:description" content="The Banshee Pilot is an Alternative, concept rock band rising from the post-apocalyptic remains of Detroit, MI." />
+    <meta property="og:title" content="The Banshee Pilot" />
     <!-- Font Awesome -->
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
     <link href='https://fonts.googleapis.com/css?family=Cambay' rel='stylesheet' type='text/css'>
@@ -46,6 +49,9 @@
         <div class="row">
             <div class="col-xs-12">
                 <center>
+                    <a target="_blank" href="https://twitter.com/thebansheepilot" class="btn btn-default">
+                        <i style="font-size:2em"class="fa fa-twitter"></i>
+                    </a>
                     <a target="_blank" href="https://www.instagram.com/thebansheepilot/" class="btn btn-default">
                         <i style="font-size:2em"class="fa fa-instagram"></i>
                     </a>
