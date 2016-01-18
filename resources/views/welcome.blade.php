@@ -43,5 +43,20 @@
                 <iframe class="col-sm-12 hidden-xs hidden-sm hidden-md" width="1280" height="720" src="https://www.youtube.com/embed/9rDMz5vJfFk" frameborder="0" allowfullscreen></iframe>
             </div>
         </div>
+        <div class="row">
+            <div class="col-xs-12">
+                <center>
+                    <a target="_blank" href="https://www.instagram.com/thebansheepilot/" class="btn btn-default">
+                        <i style="font-size:3em"class="fa fa-instagram"></i>
+                    </a>
+                    <a target="_blank" href="https://www.facebook.com/thebansheepilotofficial/" class="btn btn-default">
+                        <i style="font-size:3em"class="fa fa-facebook-official"></i>
+                    </a>
+                    <a target="_blank" href="https://thebansheepilotofficial.bandcamp.com/" class="btn btn-default">
+                        <i style="font-size:3em"class="fa fa-music"></i>
+                    </a>
+                </center>
+            </div>
+        </div>
     </body>
 </html>
